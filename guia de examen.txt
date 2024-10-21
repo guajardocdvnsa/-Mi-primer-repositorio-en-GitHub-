@@ -1,0 +1,4 @@
+elphp se declara como;<?php y  cierra ?>
+la instruccion para madar mensajes es echo se pueden usar  etiquetas html en el php
+una varianle se identificacon el signo de $ si la variable 
+es texto lleva comillas,si no loos signos //indican un comentario
